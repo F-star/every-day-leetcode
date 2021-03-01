@@ -1,5 +1,6 @@
 /**
- * https://leetcode.com/problems/summary-ranges/
+ * tags: Array
+ * src: https://leetcode.com/problems/summary-ranges/
  */
 
 function summaryRanges(nums: number[]): string[] {
