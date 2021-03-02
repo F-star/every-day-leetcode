@@ -21,7 +21,7 @@ function dfs(
   }
 
   // 跳过，不用第 idx 个数
-  dfs(candidates, target, rets, combinations, idx + 1) 
+  dfs(candidates, target, rets, combinations, idx + 1)
   // 不跳过，用第 idx 个数
   dfs(candidates, target - candidates[idx], rets, [...combinations, candidates[idx]], idx)
 }
