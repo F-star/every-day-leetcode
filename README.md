@@ -12,3 +12,5 @@ My Leetcode: https://leetcode.com/fstars/
 - `2021.03.04` 872. Leaf Similar Trees
 - `2021.03.05` 1688. Count of Matches in Tournament
 - `2021.03.06` 232. Implement Queue using Stacks
+- `2021.03.07` 79. Word Search
+- `2021.03.08` 1002. Find Common Characters
