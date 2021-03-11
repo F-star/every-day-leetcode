@@ -15,3 +15,5 @@ My Leetcode: https://leetcode.com/fstars/
 - `2021.03.07` 79. Word Search
 - `2021.03.08` 1002. Find Common Characters
 - `2021.03.09` 888. Fair Candy Swap
+- `2021.03.10` 412. Fizz Buzz
+- `2021.03.11` 374. Guess Number Higher or Lower
