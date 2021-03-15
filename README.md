@@ -19,3 +19,4 @@ My Leetcode: https://leetcode.com/fstars/
 - `2021.03.11` 374. Guess Number Higher or Lower
 - `2021.03.12` 93. Restore IP Addresses `to achieve by Backtracing`
 - `2021.03.13` 392. Is Subsequence
+- `2021.03.14` 89. Gray Code
