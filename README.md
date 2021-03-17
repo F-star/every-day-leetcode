@@ -22,3 +22,4 @@ My Leetcode: https://leetcode.com/fstars/
 - `2021.03.14` 89. Gray Code
 - `2021.03.15` 441. Arranging Coins
 - `2021.03.16` 658. Find K Closest Elements
+- `2021.03.17` 50. Pow(x, n)
